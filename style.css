@@ -58,9 +58,8 @@ a:hover {
 .heroimg img {
   position: absolute;
   top: 0;
-  left: auto;
-  right: 0;
-  height: 100%;
+  left: 0;
+  height: 107.2%;
   width: 45%;
   object-fit: cover;
 }
@@ -69,16 +68,16 @@ a:hover {
   color: white;
   position: absolute;
   top: 0;
-  right: 0;
+  left: 45%;
   height: 100%;
-  width: 50%;
+  width: 55%;
   padding: 30px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-end;
-  text-align: right;
-  background-color: rgba(197, 24, 24, 0.5);
+  align-items: flex-start;
+  text-align: left;
+  background-color: #e77847;
 }
 
 .hero-content h2 {
