@@ -2,12 +2,13 @@ html {
   box-sizing: border-box;
 }
 
-*, *:before, *:after {
-  box-sizing:inherit;
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
 }
 
 /* Thank you Jordan ^ */
-
 
 body {
   font-family: Arial, sans-serif;
@@ -115,7 +116,7 @@ section ul {
   list-style: none;
 }
 
-.backg{
+.backg {
   background-color: #e77847;
 }
 
@@ -139,11 +140,12 @@ table td {
   width: 33%;
 }
 
-.xp, .edu{
+.xp,
+.edu {
   text-align: center;
 }
 
-.edu{
+.edu {
   padding-top: 30px;
 }
 
