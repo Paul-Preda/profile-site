@@ -115,14 +115,14 @@ section ul {
   list-style: none;
 }
 
-.xpback{
+.backg{
   background-color: #e77847;
 }
 
 table {
   border-collapse: collapse;
   margin: 0 auto;
-  background-color: #5fcdd9;
+  background-color: #5fcdd9df;
   color: black;
 }
 
@@ -132,11 +132,11 @@ table td {
 }
 
 .education table td {
-  width: 50%;
+  width: 33%;
 }
 
 .experience table td {
-  width: 50%;
+  width: 33%;
 }
 
 .xp, .edu{
